@@ -1,7 +1,7 @@
-    Structure NodeRec
-        Dim TeamName As String
-        Dim Pointer As String
-    End Structure
+Structure NodeRec //testing gihub changes
+    Dim TeamName As String
+    Dim Pointer As String 
+End Structure 
 
     Dim TeamList(5) As NodeRec
     Dim Pointer, CurrentPointer, HeadPointer, FreePointer, PreviousPointer, NextFreeNodeAddress As Integer
