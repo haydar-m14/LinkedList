@@ -1,4 +1,4 @@
-Structure NodeRec //testing gihub changes
+Structure NodeRec 
     Dim TeamName As String
     Dim Pointer As String 
 End Structure 
